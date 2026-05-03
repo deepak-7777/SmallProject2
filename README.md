@@ -15,7 +15,6 @@ The purpose of this project is to practice building an e-commerce style mobile a
 * Product listing
 * Product details view
 * Add to cart functionality
-* Go to cart option
 * User-friendly shopping interface
 
 ---
