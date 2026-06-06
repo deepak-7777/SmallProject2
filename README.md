@@ -21,7 +21,7 @@ The purpose of this project is to practice building an e-commerce style mobile a
 
 ## 🛒 Cart System
 
-Users can:
+Users can: 
 
 * Add products to cart
 * View selected items
