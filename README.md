@@ -27,7 +27,7 @@ Users can:
 * View selected items
 * Manage cart before purchase
 
----
+--- 
 
 ## ⚙️ Current Status
 
