@@ -28,7 +28,7 @@ Users can:
 * Manage cart before purchase
 
 --- 
-
+ 
 ## ⚙️ Current Status
 
 * Shopping flow implemented
