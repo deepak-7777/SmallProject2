@@ -4,7 +4,7 @@ This repository contains an **online shopping application** where users can brow
 
 ---
 
-## 📚 About
+## 📚 About 
 
 The purpose of this project is to practice building an e-commerce style mobile application, focusing on product browsing, cart management, and shopping experience design.
 
