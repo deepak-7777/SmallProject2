@@ -1,7 +1,7 @@
 # 📂 Online Shopping App 
  
 This repository contains an **online shopping application** where users can browse products and add items to their cart for purchase. The app demonstrates core e-commerce functionalities and user shopping flow.
-
+ 
 ---
 
 ## 📚 About 
